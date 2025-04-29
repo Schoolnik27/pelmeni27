@@ -11,7 +11,7 @@ int main() {
 	cout << "Vvedite q_T: "; cin >> q_T;
 
 	double n_p, n_f, n_T, Q_p, Q_f, Q_T;
-	//1
+	//12
 	Q_p = M / (2 * t);
 	n_p = Q_p / q_p;
 	//2
